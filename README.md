@@ -9,7 +9,7 @@ It combines **augmented reality guidance** with **machine learning models** to h
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Screenshots](#-product-screenshots)
@@ -19,14 +19,14 @@ It combines **augmented reality guidance** with **machine learning models** to h
 
 ---
 
-## 🚀 Features
-- 📱 **AR Guidance**: Step-by-step overlay to position the stethoscope correctly.  
-- 🤖 **Machine Learning Integration**: CNN-based model to analyze lung sounds.  
-- 🏥 **Accessibility Focus**: Low-cost, user-friendly design for preventive healthcare.  
+## Features
+- **AR Guidance**: Step-by-step overlay to position the stethoscope correctly.  
+- **Machine Learning Integration**: CNN-based model to analyze lung sounds.  
+- **Accessibility Focus**: Low-cost, user-friendly design for preventive healthcare.  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend**: Swift / SwiftUI (AR integration)  
 - **ML Model**: PyTorch  
 - **AR**: Apple ARKit overlays  
@@ -34,7 +34,7 @@ It combines **augmented reality guidance** with **machine learning models** to h
 
 ---
 
-## 📸 Product Screenshots
+## Product Screenshots
 
 <details>
 <summary>Anterior View</summary>
@@ -52,7 +52,7 @@ It combines **augmented reality guidance** with **machine learning models** to h
 
 ---
 
-## 🏃‍♀️ How to Run
+## How to Run
 
 ### Prerequisites
 - macOS with **Xcode 14+**  
@@ -87,12 +87,12 @@ python predict.py --input sample_sound.wav
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 - Retrain ML model with larger, more diverse datasets  
 - Enhance AR overlay precision  
 - Deploy as a testable iOS app prototype  
 
 ---
 
-## 🙌 Credits
-✨ Created by **Sophie Lin**  
+##  Credits
+ Created by **Sophie Lin**  
